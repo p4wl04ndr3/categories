@@ -1,0 +1,6 @@
+com/github/categories/service/CategoryService.class
+com/github/categories/model/Category.class
+com/github/categories/repository/CategoryRepository.class
+com/github/categories/service/impl/CategoryServiceImpl.class
+com/github/categories/CategoriesApplication.class
+com/github/categories/controller/CategoryController.class
