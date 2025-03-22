@@ -1,6 +1,10 @@
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/CategoriesApplication.java
+/home/pawloandre/Downloads/categories/src/main/java/com/github/categories/client/ViaCepClient.java
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/controller/CategoryController.java
+/home/pawloandre/Downloads/categories/src/main/java/com/github/categories/controller/CepController.java
+/home/pawloandre/Downloads/categories/src/main/java/com/github/categories/model/Address.java
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/model/Category.java
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/repository/CategoryRepository.java
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/service/CategoryService.java
+/home/pawloandre/Downloads/categories/src/main/java/com/github/categories/service/CepService.java
 /home/pawloandre/Downloads/categories/src/main/java/com/github/categories/service/impl/CategoryServiceImpl.java
